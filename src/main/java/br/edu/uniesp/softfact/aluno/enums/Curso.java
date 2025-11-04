@@ -1,0 +1,10 @@
+package br.edu.uniesp.softfact.aluno.enums;
+
+
+public enum Curso {
+    CIENCIA_DA_COMPUTACAO,
+    ENGENHARIA_DA_COMPUTACAO,
+    SISTEMAS_DE_INFORMACAO,
+    ANALISE_E_DESENVOLVIMENTO_DE_SISTEMAS,
+    ENGENHARIA_DE_SOFTWARE
+}
